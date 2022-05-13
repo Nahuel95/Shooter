@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6399325806534368583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6399325806534368582}
+  - component: {fileID: 6399325806534368577}
+  m_Layer: 0
+  m_Name: _SCRIPTS_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6399325806534368582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6399325806534368583}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 207.5, y: 161, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6399325806534368577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6399325806534368583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86b3b743809a2ff4088dff5ed3d11c62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthText: {fileID: 0}
+  armorText: {fileID: 0}
+  ammoText: {fileID: 0}
+  cdText: {fileID: 0}
+  ItemName: {fileID: 0}
+  ROFText: {fileID: 0}
+  gunDmgText: {fileID: 0}
+  reloadTimeText: {fileID: 0}
+  CDText: {fileID: 0}
+  amuletDmgText: {fileID: 0}
+  description: {fileID: 0}
+  img: {fileID: 0}
+  cdImg: {fileID: 0}
+  ammoImg: {fileID: 0}
+  ItemPanel: {fileID: 0}
+  primaryWeaponPanel: {fileID: 0}
+  secondaryWeaponPanel: {fileID: 0}
+  ammoPanel: {fileID: 0}
+  CDPanel: {fileID: 0}
